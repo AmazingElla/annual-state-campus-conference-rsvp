@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Annual State Campus Sisters Program RSVP"
+description = "Registration and financial contribution page for the Annual State Campus Sisters Program on 22 November 2026."
