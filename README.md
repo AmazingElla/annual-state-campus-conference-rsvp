@@ -12,8 +12,23 @@ This folder is a complete Hatchable project. Everything the app needs is in thes
 2. Bring this folder as a .zip, or point the importer at a Git repository that contains it
 3. Your copy gets its own database, its own URL, and connects to your own keys
 
-## About Hatchable
+## Annual State Campus Sisters Conference – RSVP & Contribution Platform
 
-Hatchable is where AI-built apps go live. Connect the AI you already use and it can build, deploy, and run apps like this one for you.
+**Project Type:** Full-stack Web Application
 
-Built on Hatchable. https://hatchable.com
+**Live Website:** https://annual-state-campus.hatchable.site
+
+**Project Overview**
+
+Designed and developed a responsive event registration and contribution platform for the Annual State Campus Sisters Conference, organised by The Lord’s Chosen Campus Fellowship, Lagos State.
+
+**Key Features**
+- Responsive design for mobile, tablet and desktop.
+- Online event registration.
+- Contribution and payment-proof submission.
+- Admin dashboard for viewing registrations and contributions.
+- CSV export and manual contribution verification.
+
+**My Role:** Project planning, UI development, frontend and backend implementation, database integration, and deployment.
+
+**Tools:** Hatchable, HTML, CSS, JavaScript, PostgreSQL.
